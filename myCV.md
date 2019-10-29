@@ -23,6 +23,8 @@
  - Основы ООП
  - VS Code, WebStorm, Open server
  - Git
+ - Android Debug Bridge (adb)
+ - Android SDK
  - Основы методологии Agile(Scrum), Waterfall
  
 
